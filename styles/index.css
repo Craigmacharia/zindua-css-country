@@ -1,0 +1,51 @@
+h1 {
+    color: red;
+    text-align: center;
+    font-size: xxx-large;
+    padding-block: 10px;
+    box-sizing: content-box;
+    background-color: rgb(15, 15, 13);
+    font-size: x-large;
+    font-weight: 100;
+   
+}
+h2 {
+    color: green;
+    font-family: cursive;
+    text-align: center;
+    padding-block: 10px;
+    box-sizing: content-box;
+    background-color: black;
+    font-weight: 100;
+}
+h3 {
+    color: aliceblue;
+    font-family: cursive;
+    text-align: center;
+    padding-block: 10px;
+    box-sizing: content-box;
+    background-color: black;
+    font-weight: 100;
+}
+p1 {
+    text-align: center;
+    
+}
+.my-sections {
+    font-weight: 100;
+
+}
+h1, h2, h3 {
+    text-decoration: underline double;
+    
+}
+h0 {
+    font-weight: 900;
+    text-align: center;
+    color: rgb(255, 127, 127);
+    text-decoration:line-through;
+}
+.img {
+    padding-block: 30px;
+    
+}
